@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/E-Commarce-Website.git/static/css/main.9513bd8c.chunk.css",
+    "main.js": "/E-Commarce-Website.git/static/js/main.2cd4d323.chunk.js",
+    "main.js.map": "/E-Commarce-Website.git/static/js/main.2cd4d323.chunk.js.map",
+    "runtime-main.js": "/E-Commarce-Website.git/static/js/runtime-main.24a5dff8.js",
+    "runtime-main.js.map": "/E-Commarce-Website.git/static/js/runtime-main.24a5dff8.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/E-Commarce-Website.git/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.724fee68.chunk.js": "/E-Commarce-Website.git/static/js/2.724fee68.chunk.js",
+    "static/js/2.724fee68.chunk.js.map": "/E-Commarce-Website.git/static/js/2.724fee68.chunk.js.map",
+    "index.html": "/E-Commarce-Website.git/index.html",
+    "precache-manifest.0004336255bd03814ecbd8e0f9ec84c7.js": "/E-Commarce-Website.git/precache-manifest.0004336255bd03814ecbd8e0f9ec84c7.js",
+    "service-worker.js": "/E-Commarce-Website.git/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/E-Commarce-Website.git/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.9513bd8c.chunk.css.map": "/E-Commarce-Website.git/static/css/main.9513bd8c.chunk.css.map",
+    "static/js/2.724fee68.chunk.js.LICENSE.txt": "/E-Commarce-Website.git/static/js/2.724fee68.chunk.js.LICENSE.txt",
+    "static/media/download.svg": "/E-Commarce-Website.git/static/media/download.9f7e506d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24a5dff8.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.724fee68.chunk.js",
+    "static/css/main.9513bd8c.chunk.css",
+    "static/js/main.2cd4d323.chunk.js"
+  ]
+}
